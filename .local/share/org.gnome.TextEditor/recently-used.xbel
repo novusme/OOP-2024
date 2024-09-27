@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/vboxuser/OOP/Module-1/Week-1/HTML/ex-1ab.html" added="2024-09-27T19:30:47.456862Z" modified="2024-09-27T21:58:06.858972Z" visited="2024-09-27T20:55:26.241486Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-09-27T21:58:06.858972Z" count="212"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/OOP/Module-1/Week-1/JS/ex-1ab.js" added="2024-09-27T19:50:35.688720Z" modified="2024-09-27T20:38:42.474803Z" visited="2024-09-27T19:50:32.901735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-09-27T20:38:42.474803Z" count="58"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/OOP/Module-1/Week-1/JS/ex-2.js" added="2024-09-27T20:55:28.708998Z" modified="2024-09-27T22:56:06.970298Z" visited="2024-09-27T22:32:32.037495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-09-27T22:56:06.970296Z" count="207"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/OOP/Module-1/Week-1/HTML/ex-2.html" added="2024-09-27T22:10:42.694397Z" modified="2024-09-27T22:20:55.336283Z" visited="2024-09-27T22:10:39.503174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-09-27T22:20:55.336282Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/OOP/Module-1/Week-1/HTML/ex-3a.html" added="2024-09-27T22:32:34.686948Z" modified="2024-09-27T22:56:06.970318Z" visited="2024-09-27T22:32:31.846405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-09-27T22:56:06.970318Z" count="51"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/OOP/Module-1/Week-1/CSS/ex-3a.css" added="2024-09-27T22:36:34.694064Z" modified="2024-09-27T22:56:06.970301Z" visited="2024-09-27T22:36:31.287689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-09-27T22:56:06.970301Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/OOP/Module-1/Week-1/JS/ex-3a.js" added="2024-09-27T22:37:34.696480Z" modified="2024-09-27T22:56:06.970320Z" visited="2024-09-27T22:37:31.875756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-09-27T22:56:06.970320Z" count="30"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

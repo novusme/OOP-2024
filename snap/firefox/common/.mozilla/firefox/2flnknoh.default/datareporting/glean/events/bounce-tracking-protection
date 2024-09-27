@@ -1,0 +1,9 @@
+{"timestamp":7071943,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","glean_timestamp":"1727472162846","success":"true","site_host":"vk.ru","bounce_time":"1727467620"}}
+{"timestamp":9068721,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1727474159623","glean.startup.date":"2024-09-27T21:55+00:00"},"execution_counter":1}
+{"timestamp":9392958,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1727474483860","glean.startup.date":"2024-09-27T22:01+00:00"},"execution_counter":2}
+{"timestamp":9989036,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2024-09-27T22:11+00:00","glean_timestamp":"1727475079938"},"execution_counter":3}
+{"timestamp":10074664,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1727475165566","glean.startup.date":"2024-09-27T22:12+00:00"},"execution_counter":4}
+{"timestamp":10137838,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2024-09-27T22:13+00:00","glean_timestamp":"1727475228740"},"execution_counter":5}
+{"timestamp":11267337,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1727476358239","glean.startup.date":"2024-09-27T22:32+00:00"},"execution_counter":6}
+{"timestamp":13323951,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2024-09-27T23:06+00:00","glean_timestamp":"1727478414853"},"execution_counter":7}
+{"timestamp":13381360,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1727478472263","glean.startup.date":"2024-09-27T23:07+00:00"},"execution_counter":8}
